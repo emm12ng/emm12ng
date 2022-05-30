@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Trang Nguyen (you can call me Emma, Em, or M :smile:) and I'm a sophomore and CS major at Mount Holyoke College. I'm from Vietnam and have been based in the U.S. for 10 years!
+I'm Trang Nguyen (you can call me Emma, Em, or M :smile:) and I'm a sophomore and CS major at Mount Holyoke College. 
 
 I love coding and riding the ups and downs of the software development process. I also find great joy in working and bonding with other programmers over solving tech problems, and learning and offering ideas within a group setting. These days, you can often find me coding in C or doing NLP work, analyzing and modeling natural language. You can see my full tech stack below!
 
