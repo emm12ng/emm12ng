@@ -1,16 +1,8 @@
 ### Hi there 👋
 
-I'm Trang Nguyen (you can call me Emma, Em, or M :smile:) and I'm a sophomore and CS major at Mount Holyoke College. 
+I'm Trang Nguyen, but you can call me Emma or Em :smile: and I'm a junior and CS major at Mount Holyoke College. 
 
-I love coding and riding the ups and downs of the software development process. I also find great joy in working and bonding with other programmers over solving tech problems, and learning and offering ideas within a group setting. These days, you can often find me coding in C or doing NLP work, analyzing and modeling natural language. You can see my full tech stack below!
-
-### Tech Stack
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+I love coding and riding the ups and downs of the software development process. I also find great joy in working and bonding with other programmers over solving tech problems, and learning and offering ideas within a group setting. These days, you can often find me coding with React and Node or doing text analysis!
 
 ### How to reach me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:YOURGOOGLEUSERNAME@mtholyoke.edu)](mailto:emm12ng@gmail.edu)
