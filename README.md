@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-I'm Trang Nguyen, but you can call me Emma or Em :smile: and I'm a junior and CS major at Mount Holyoke College. 
-
-I love coding and riding the ups and downs of the software development process. I also find great joy in working and bonding with other programmers over solving tech problems, and learning and offering ideas within a group setting. These days, you can often find me coding with React and Node or doing text analysis!
+I'm Emma Nguyen :smile: and I'm a senior and CS major at Mount Holyoke College. 
 
 ### How to reach me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:YOURGOOGLEUSERNAME@mtholyoke.edu)](mailto:emm12ng@gmail.edu)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:YOURGOOGLEUSERNAME@mtholyoke.edu)](mailto:emm12nguyen@gmail.edu)
 
 <!--
 **emm12ng/emm12ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
